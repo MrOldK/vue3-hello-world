@@ -1,5 +1,6 @@
 
 <template lang='pug'>
+.myname mok
 img(alt="Vue logo", src="./assets/logo.png")
 HelloWorld(msg="Welcome to Your Vue.js + TypeScript App")
 </template>
